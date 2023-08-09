@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+    box-sizing: border-box;
+}
+body {
+  background-image: url('Bg.jpeg');
+  background-repeat: no-repeat;
+  background-position: center;
+  
+}
+h1{
+    color: green;        
+    text-shadow: 2px 2px 1px black;
+    font-size: 58px;
+    margin-left: 40px;
+    margin-top: 50px;
+    }
+
+.custom-table{
+    width: 45%;
+    margin-right: 25px;
+    
+}
+.custom-table tr{
+    background-color: #00bfff;
+    color: white;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+
+.custom-table td {
+    padding: 7px; 
+    border-radius: 4px;
+  }
+
+.jadwal{
+    margin-top: 40px;
+    width: 96%;
+    margin-left: 35px;
+}
+
+.jadwal tr{
+    background-color: #00bfff;
+    color: white;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+
+.jadwal td{
+    padding: 12px;
+    border-radius: 4px;
+  }
+
+.time{
+    background-color: #00bfff;
+    color: white;
+    font-size: 16px;
+    letter-spacing: 1px;
+    width: 158px;
+}
+
+.istirahat{
+    background-color: silver;
+    color: white;
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+
+.mapel{
+    background-color: silver;
+    color: white;
+    font-size: 16px;
+    letter-spacing: 1px;
+}
